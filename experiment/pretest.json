@@ -1,39 +1,4 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+  "questions":[{"question":"Which of the following does not belong to the instruments of plane table?","answers":{"a":"Spirit level","b":"Plumb bob","c":"Compass","d":"Theodolite"},"correctAnswer":"d"},{"question":"For obtaining high precision values, which among the following is used?","answers":{"a":"Coast survey table","b":"Wooden table","c":"Johnson table","d":"Traverse table"},"correctAnswer":"a"},{"question":"Alidade is used for___________","answers":{"a":"Levelling","b":"Transferring point to ground","c":"Sighting","d":"Drawing lines"},"correctAnswer":"c"},{"question":"Orientation of table involves which among the following?","answers":{"a":"Traversing","b":"Fore sighting","c":"Measuring bearings","d":"Back sighting"},"correctAnswer":"d"},{"question":"In which of the following cases, orientation by back sighting is used?","answers":{"a":"When approximate levelling is required","b":"When second point is available for orientation","c":"When it is not possible to set instrument over station mark","d":"When speed is important than accuracy"},"correctAnswer":"c"}]
 }
