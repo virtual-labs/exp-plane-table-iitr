@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To study various accessories of Plane table for preparing engineering maps in the field.
