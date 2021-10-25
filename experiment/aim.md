@@ -1,1 +1,1 @@
-#### To study various accessories of Plane table for preparing engineering maps in the field.
+#### To study various accessories of plane table for preparing engineering maps in the field.

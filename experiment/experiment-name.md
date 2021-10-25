@@ -1,1 +1,1 @@
-## Study of Plane Table and Its Accesories.
+## Study of plane table and its accessories.
