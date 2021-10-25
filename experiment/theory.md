@@ -2,11 +2,11 @@
 <br>
 The most commonly used plane table It consists of a well-seasoned wooden table Top mounted on a tripod. The table top can rotate about vertical axis freely. Whenever necessary table can be clamped in the desired orientation. The table can be levelled by adjusting tripod legs.<br>
 
-This experiment is useful to study Plane Table and Its Accesories.<br>
+This experiment is useful to study plane table and its accesories.<br>
 
 ### Principle
 <br>
-Plane Tabling is a graphical method where measurements are carry out plot the details for preparing the map of the area.<br>
+Plane Table is a graphical method where measurements are carrying out the plotting details for preparing the map of the area.<br>
 
 ### Equipments Used
 <br>
