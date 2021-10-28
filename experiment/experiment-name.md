@@ -1,1 +1,1 @@
-## Experiment name
+## Study of plane table and its accessories.
