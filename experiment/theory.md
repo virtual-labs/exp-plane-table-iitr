@@ -23,4 +23,5 @@ Plane Table is a graphical method where measurements are carrying out the plotti
 13) Clinometer.<br>
 14) Theodolite.<br>
 15) Staff.<br>
-16) Theodolite staff.<br>
+
+
